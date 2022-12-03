@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1669947298
+#1670094649
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -22,14 +22,25 @@ images/titulo.png
 images/efeito_azul-sheet0.png
 images/efeito_escuro-sheet0.png
 images/fundo_tela_fases-sheet0.png
-images/fase_1-sheet0.png
-images/fase_2-sheet0.png
-images/fase_3-sheet0.png
-images/tela_fases-sheet0.png
-images/regioes_pointer-sheet0.png
+images/fase_verde-sheet0.png
+images/fase_final-sheet0.png
+images/fase_final-sheet1.png
+images/fase_cemiterio-sheet0.png
+images/textos_tela_fases.png
+images/fundo_pre_fase-sheet0.png
+images/mensageiro_cut-sheet0.png
+images/mensageiro_cut-sheet1.png
+images/chefe_cut-sheet0.png
+images/chefe_cut-sheet1.png
+images/balao_fala_chefe-sheet0.png
+images/colisor-sheet0.png
+images/fala_mensageiro.png
+images/balao_fala_mensageiro-sheet0.png
 media/nave_voando.ogg
 media/explosao.ogg
 media/clique_mouse.ogg
+media/som_erro.ogg
+media/passo_transicao.ogg
 media/inicio_fade.ogg
 media/inicio_fade2.ogg
 media/looping_invasao.ogg
