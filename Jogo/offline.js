@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1670646019,
+	"version": 1672466424,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,12 @@
 		"images/cenario_verde-sheet0.png",
 		"images/ref_fase_verde-sheet0.png",
 		"images/casa_verde-sheet0.png",
+		"images/setas_tutorial-sheet0.png",
+		"images/bolha-sheet0.png",
+		"images/bolha-sheet1.png",
+		"images/coracao_bolha-sheet0.png",
+		"images/bloco_chao_verde-sheet0.png",
+		"images/texto_f.png",
 		"images/camera-sheet0.png",
 		"images/personagem-sheet0.png",
 		"images/personagem-sheet1.png",
@@ -57,6 +63,8 @@
 		"images/personagem-sheet4.png",
 		"images/personagem-sheet5.png",
 		"images/personagem-sheet6.png",
+		"images/parede_solida-sheet0.png",
+		"images/sensor_borda-sheet0.png",
 		"media/nave_voando.ogg",
 		"media/explosao.ogg",
 		"media/clique_mouse.ogg",
