@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1674357430,
+	"version": 1675021587,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,7 +47,6 @@
 		"images/chao_verde.png",
 		"images/cenario_verde2.png",
 		"images/cenario_verde-sheet0.png",
-		"images/ref_fase_verde-sheet0.png",
 		"images/casa_verde-sheet0.png",
 		"images/setas_tutorial-sheet0.png",
 		"images/bolha-sheet0.png",
@@ -109,6 +108,10 @@
 		"images/sensor_tirolesa-sheet0.png",
 		"images/corda_tirolesa-sheet0.png",
 		"images/buraco_lama-sheet0.png",
+		"images/sensor_acerta_golpe_pedra-sheet0.png",
+		"images/regiao_casa-sheet0.png",
+		"images/pedra_feedback-sheet0.png",
+		"images/gancho_pedra-sheet0.png",
 		"images/camera-sheet0.png",
 		"media/nave_voando.ogg",
 		"media/explosao.ogg",
@@ -124,6 +127,7 @@
 		"media/bolha_estourando.ogg",
 		"media/drone_quebrando.ogg",
 		"media/checkpoint.ogg",
+		"media/falha.ogg",
 		"media/inicio_fade.ogg",
 		"media/inicio_fade2.ogg",
 		"media/looping_invasao.ogg",
@@ -135,6 +139,8 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"fim.mp4",
+		"creditos.mp4"
 	]
 }
